@@ -1,0 +1,9 @@
+Buenos dias,
+Antes que nada quiero pedirle disculpas porque me han enseñado muchisimo, no iba a presentar porque ando muy falto de tiempo, pero considere una falta de respeto el no hacerlo.
+Asi que si, no estoy orgulloso de este trabajo, despues de que me corrijan seguramente lo saque de arriba ya que se que doy para mucho mas, me tengo que ir a trabajar y debo entregar como este antes de irme.
+Empeze con un archivo de salud de Kaggle y este despues de hacer el EDA estaba perfectamente equilibrado, asique no me servia eran datos inventados, grande, pero con info muy artificial, este es un dataset que ya tenia, pero es relativamente pequeño.
+Hice un modelo de prediccion, no muy bueno en temas de precision, pero bueno hice lo mejor que pude, debi dedicarle mas horas, pero este ultimo mes fue de terror para mi, no por las clases sino en lo laboral.
+
+Sacando esa excusa, independientemente del resultado sepa usted que estoy muy agradecido a usted y sus colegas, me pondre a hacer un portfolio y le dedicare mucho tiempo a esto..
+han despertado ganas de hacer e intentar cambiar mi actividad a esta area, no me gusta tanto lo generativo, sino mas lo predictivo, no obstante le agradezco a ustedes y a codigofacilito..
+Simplemente eso, profes geniales, buena predisposicion... desde ya muchas... muchas.. muchas gracias...
